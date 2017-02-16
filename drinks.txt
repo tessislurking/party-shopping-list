@@ -1,4 +1,0 @@
-mixers
-liquor
-beer
-water
